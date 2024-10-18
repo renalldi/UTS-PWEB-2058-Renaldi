@@ -1,4 +1,3 @@
-<!-- resources/views/contact.blade.php -->
 @extends('layouts.app')
 
 @section('title', 'Contact')
@@ -7,8 +6,6 @@
 <div class="flex justify-center">
     <div class="w-full max-w-4xl bg-white rounded-lg shadow-md p-6">
         <h2 class="text-2xl font-semibold text-center mb-6">Contact Information</h2>
-
-        <!-- Tabel dengan data dummy -->
         <table class="min-w-full bg-gray-100 table-auto text-center border-collapse border border-gray-300">
             <thead>
                 <tr class="bg-gray-200">
